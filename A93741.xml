@@ -1,0 +1,245 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Hear this word, O ye princes, ye priests and people of England especially such of ye as assemble at Westminster, at this your session begun, December 8, 1698.</title>
+            <author>Stafford, Richard, 1663-1703.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93741</idno>
+            <idno type="STC">Wing S5120</idno>
+            <idno type="STC">ESTC R230017</idno>
+            <idno type="EEBO-CITATION">42475318</idno>
+            <idno type="OCLC">ocm 42475318</idno>
+            <idno type="VID">151380</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93741)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151380)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2257:4f)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Hear this word, O ye princes, ye priests and people of England especially such of ye as assemble at Westminster, at this your session begun, December 8, 1698.</title>
+                  <author>Stafford, Richard, 1663-1703.</author>
+               </titleStmt>
+               <extent>15, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1698]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Advertisement: [2] p. at end.</note>
+                  <note>One of two items that may be Wing (CD-ROM, 1996) S5120.</note>
+                  <note>Text begins: Then Saul said unto his servants that stood about him, Hear, now, ye Benjamites...</note>
+                  <note>Page 15 begins: Because some of ye heretofore, instead of obeying the Word, have persecuted my outward Person..., followed by "To all Rulers, Magistrates..."</note>
+                  <note>Reproduction of original in: Dr. Williams's Library.</note>
+                  <note>With: The exceeding great comfort and benefit of having walked before God in truth, and with a perfect heart / by Richard Stafford. London : Printed ... by Ralph Simpson ... MDCXCIX [1699] -- Sermon I. on Phil. IV. 11 / written by Richard Stafford. [London] : Printed at London, 1698 (Wing S5131C) -- The necessity of keeping still unto the ordinances of religion. London : Printed ... by Ralph Simpson ..., 1698 (Wing S5126) -- A sermon on 2 Cor. 2. XI / written by Richard Stafford. London : Printed ... by Ralph Simpson ..., MDCXCVIII [1698] (Wing S5131B) -- The absolute truth, and utmost certainty of the word of God / by Richard Stafford. London : Printed ... by Ralph Simpson ..., MDCXCIX [1699] (Wing S5107F).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James --  II, --  King of England, 1633-1701.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:151380:1"/>
+            <head>Hear this Word, O ye Princes, ye Prieſts and People of <hi>England;</hi> Eſpecially ſuch of ye as Aſſemble at <hi>Weſtminſter,</hi> at this your Seſſion begun, <hi>December</hi> 
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. 1698.</head>
+            <p>
+               <hi>THen Saul ſaid unto his Servants that ſtood about him, Hear, now, ye Benjamites, Will the Son of Jeſſe give every one of you Fields and Vineyards, and make you all Captains of Thouſands and Captains of Hundreds?</hi> 1 Sam. 22. 7. From hence may be underſtood the Rea<g ref="char:EOLhyphen"/>ſon of the Diſobedience and Rebellion of the People of <hi>England</hi> unto thoſe ſundry Commandments of the Moſt High God, which from the Scriptures, I have laid before them: Namely, Becauſe the Son-in-Law of <expan>
+                  <am>
+                     <g ref="char:leftblank"/>
+                  </am>
+                  <ex>left blank</ex>
+               </expan> doth give them Money, or Lands, or Places of Profit, and to thoſe of the Prieſthood, Biſhopricks or Preferments, for the Sake and Love of which, they <hi>caſt the Law of God behind their backs.</hi> Neh. 9. 26. and they do not give due heed and obe<g ref="char:EOLhyphen"/>dience unto the ſame. But let them conſider fur<g ref="char:EOLhyphen"/>ther what the great Oracle of Truth, the Lover and Saviour of our Souls, ſaith, <hi>What ſhall it profit a man if he ſhall gain the whole world and loſe his own ſoul?</hi> Matth. 8. 36. or as it is in another Evangeliſt, <hi>Loſe himſelf,</hi> or be a caſt-away? <hi>Luke</hi> 9. 27. Your Prince indeed (a <hi>Raiſer of Taxes,</hi> and <hi>obtained the kingdom
+<pb n="2" facs="tcp:151380:2"/> by flatteries, and ſhall proſper until the indignation be ac<g ref="char:EOLhyphen"/>compliſhed,</hi> Dan. 11. 20, 21. 36.) hath gained one kingdom of the Earth, and ye have gained leſs Riches; But it will not profit ye, for the gain of them to loſe your Souls, your Selves, and be Caſt-aways; and ye cannot give them in exchange for your Souls: <hi>They that trust in their wealth, and boaſt themſelves in the multitude of their riches; None of them can by any means redeem his brother, nor give to God a ranſom for him: For the redemption of their ſoul is precious, and it ceaſeth <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or ever,</hi> Pſal. 49. 6, 7, 8. Again it is written, <hi>Riches profit not in the day of wrath, but righteouſneſs delivereth from death,</hi> Prov. 11. 4. And again it is written, <hi>Their ſilver and their gold ſhall not be able to deliver them in the day of the wrath of the Lord;</hi> they <hi>ſhall not ſatisfie their ſouls nor fill their bowels, becauſe it is the ſtumbling block of their iniquity,</hi> Ezek. 7. 19. That is like as the goodly <hi>Babyloniſh</hi> Garment and two hundred ſhekels of ſilver and a wedge of gold, tempted <hi>Achan</hi> to commit the accurſed thing: So the ſilver and gold was the occaſion or temptation of their falling into ſuch an Iniquity; and ſo it was the <hi>stumbling block of their Iniquity.</hi> But it is evidently ſeen, for the like hath been already fulfilled in ſome of your Brethren and Companions of Iniquity, that in a few days, weeks, months, and years more, <hi>An end is come, the end is come, behold it is come; The morning is come upon thee, O thou that dwellest in the land: The time is come, the day of trouble is near, and not the ſounding again of the mountains:</hi> For the Trade of <hi>Sinning on ſtill</hi> and working Iniquity will not laſt always: And then it will not profit ye, for all the conveniency, and pleaſure, and reſpect, attending upon your Riches, to have your Souls ſent unto Hell, although your Bodies rode enſhrined in Coaches
+<pb n="3" facs="tcp:151380:2"/> whilſt here on Earth. Like Sins will have like Ends. Conſider the Example of <hi>Balaam,</hi> who loved the <hi>wages of unrighteouſneſs;</hi> and of <hi>Judas,</hi> who Betrayed his Maſter, and <hi>purchaſed a field with the reward of Iniquity.</hi> It would be better for them now, if they had never loved the Wages of Unrighteouſneſs, nor yet took the Reward of Iniquity; even ſo, ſome of ye have Betrayed your King and Maſter, and moſt of ye do allow the Deeds of them who did ſo, and ye are Partakers with them in the <hi>Ini<g ref="char:EOLhyphen"/>quity</hi> (which ſignifies an unequal thing) done to<g ref="char:EOLhyphen"/>wards him: Becauſe ye have thoſe Places and Op<g ref="char:EOLhyphen"/>portunities of Gain, Profit, and Reward, under this Conſtitution, which perhaps ye would not have had under the former Rightful Government. For your Gains-ſake, ye will not know, but refuſe, to do do Right, ye Heads of the Houſe of <hi>England,</hi> and ye will not Obey the Commandments of the Lord, which enjoyn People to <hi>do Right.</hi> Every Diſobedience and Tranſgreſſion receiveth a juſt re<g ref="char:EOLhyphen"/>compence of Reward. Ye will find that it was a miſtaken Intereſt to loſe your Souls, even the temp<g ref="char:EOLhyphen"/>tation and bait of Satan, for him to catch and de<g ref="char:EOLhyphen"/>ſtroy them. Ye have not that <hi>faith which overcometh the world</hi> in its Terrours, Temptations, and Al<g ref="char:EOLhyphen"/>lurements. <hi>But they that will be rich fall into temp<g ref="char:EOLhyphen"/>tation and a ſnare, and into many fooliſh and hurtful luſts, which drown men in deſtruction and perdition; for the love of money is the root of all evil, which while ſome have coveted after, they have erred from the faith:</hi> For the true Chriſtian Faith doth not allow of Rebellion againſt, and the Depoſing and Mur<g ref="char:EOLhyphen"/>ther of Kings; and for any to forſwear themſelves in not <hi>keeping unto that Oath of God,</hi> Eccleſ. 8. 2. they had taken to the <hi>Governors ſens by him.</hi> But
+<pb n="4" facs="tcp:151380:3"/> thou, <hi>O man of God, flee theſe things, and follow af<g ref="char:EOLhyphen"/>ter righteouſneſs.</hi> They afore-ſpoken off are not come up to that ſtate of Mind as to think ſo, and make it their choice accordingly. <hi>A little that a righteous man hath is better then the riches of many wicked,</hi> Pſal. 37. 16. <hi>Better is a little with righte<g ref="char:EOLhyphen"/>ouſneſs, than great revenues without right,</hi> Prov. 16. 8. for it will tend more to ones future, which is the only real and enduring Happineſs. He that truly fears God, will not tranſgreſs the leaſt Precept for the greateſt Profit: But the Hypocrite (tho' he ſeems to be Religious, for he doth retain the outward Worſhip of God, and perhaps is zealous in ſome things, and pretends to be Righteous) is for getting and advancing himſelf in the World, whither the means be Sinful or not is no hin<g ref="char:EOLhyphen"/>drance unto him. But <hi>what is the hope of the hypo<g ref="char:EOLhyphen"/>crite, though he hath gained, when God taketh away his Soul?</hi> What good will they do him? Or, What ſtead and avail will they ſtand him in, when his Soul is taken away utterly from things for the ſake of which he tranſgreſſed againſt the Lord? Such is the Caſe of thoſe People I here write unto.</p>
+            <p>As a <hi>Scribe inſtructed in the Law of God,</hi> I have for theſe Nine years ſucceſſively teſtified unto ye from out of his Law and Commandment, and with the <hi>words of thy righteouſneſs, even of thine only,</hi> Pſal. 71. 16. That ye have committed a Sin in Depoſing <expan>
+                  <am>
+                     <g ref="char:leftblank"/>
+                  </am>
+                  <ex>left blank</ex>
+               </expan> And that therein alſo, con<g ref="char:EOLhyphen"/>trary unto his Commandment, ye have Forſworn your ſelves, and not performed unto the Lord your Oaths, but ye have <hi>deſpiſed the Oath</hi> in break<g ref="char:EOLhyphen"/>ing <hi>the Covenant, when lo ye had given your hand,</hi> Ezek. 17. 11. When ye did perform Fealty and
+<pb n="5" facs="tcp:151380:3"/> ſwear Allegiance and Subjection unto him, as then your <hi>Governor ſent by God,</hi> 1 Pet. 2. 14, which the Divinely Inſpired Apoſtle doth ſay even of Heathen Rulers, who are worſe than Papiſts. But ye have Rebelled againſt him, and caſt off all manner of Allegiance and Subjection unto him. This is plain and direct Forſwearing your ſelves, and <hi>not perform<g ref="char:EOLhyphen"/>ing unto the Lord your Oaths,</hi> when ye had ſworn Allegiance and Subjection to ſuch a King and Ru<g ref="char:EOLhyphen"/>ler, afterwards to caſt off Allegiance and Subje<g ref="char:EOLhyphen"/>ction unto that King and Ruler, as now ye have done. So that ye have committed a Sin, and done wrong, and ſworn falſly herein. And I do again hereby teſtifie unto, and exhort ye, who are thus in the way of tranſgreſſing the Word and Com<g ref="char:EOLhyphen"/>mandment of God, and in Rebellion againſt him, That ye come to Repentance in all this. If ye will not, I take Record this day, That as <hi>Je<g ref="char:EOLhyphen"/>remiah</hi> witneſſed in his time unto the Inhabitants of <hi>Judah</hi> and <hi>Jeruſalem, From the thirteenth year <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f Joſiah the ſon of Amos, king of Judah, even unto this day, which is the three and twentieth year,</hi> (which was ten years together) <hi>the word of the Lord hath came unto me, and I have ſpoken unto you, riſing early and ſpeaking, but ye have not hearkened,</hi> Jer. 25. 3. So for theſe nine years laſt paſt, I have only from the Law and Commandment of God, and with the Words of <hi>his Righteouſneſs,</hi> wrote and teſtified un<g ref="char:EOLhyphen"/>to ye, That herein ye have committed a Sin and Tranſgreſſion, and as yet ye will not not come to Repentance. Ye have done a wrong therein, and to this day ye will not make full Reſtitution. But ye do ſtill Conſent with the Counſel and Deed of them, <hi>Who rob Father and Mother, and ſay it is no Tranſgreſſion.</hi> Which Scripture expreſſion hath
+<pb n="6" facs="tcp:151380:4"/> been fulfilled in theſe days; For a certain Wo<g ref="char:EOLhyphen"/>man, (who is ſince dead) together with her Hus<g ref="char:EOLhyphen"/>band now living, did violently diſpoſſeſs and take away (which is Robbery) her own Fathers King<g ref="char:EOLhyphen"/>dom and Inheritance, and by putting him in Fear, cauſed him to ſeek his Bread in a Foreign Coun<g ref="char:EOLhyphen"/>try. And they, together with corrupt Prieſts, and a mercenary People, ſay, <hi>It is no Tranſgreſ<g ref="char:EOLhyphen"/>ſon.</hi> But Sin is the Tranſgreſſion of the Law, and it is a plain and direct Tranſgreſſion of that Law of God, which ſaith, <hi>Thou ſhalt not covet thy Neigh<g ref="char:EOLhyphen"/>bours Houſe, nor any thing that <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> his. Thou ſhalt not Steal,</hi> which forbids both ſecretly and alſo open<g ref="char:EOLhyphen"/>ly taking it from him. And ſo in the inſtance here mentioned, ye have Forſworn your ſelves, and not performed unto the Lord your Oaths in deſpiſing and falſifying the Oath of the Lord; and as to that alſo ye will not come to Repentance, ſo as to return again to your Allegiance and Subje<g ref="char:EOLhyphen"/>ction, unto that ſame Perſon whom ye had for<g ref="char:EOLhyphen"/>merly ſworn unto. As the Apoſtle ſaith, <hi>Nay, I had not known Sin but by the Law; for I had not known Luſt except the Law had ſaid, Thou ſhalt not Covet.</hi> So here, That all this is Sin, and Wrong, and Unrighteouſneſs, and Swearing falſly, or For<g ref="char:EOLhyphen"/>ſwearing, it may be known and demonſtrated by the Law of God, which ſaith, <hi>Thou ſhalt not Covet. Thou ſhalt not forſwear thy ſelf, but perform unto the Lord thine Oath,</hi> Matt. 5. 33.</p>
+            <p>Notwithſtanding theſe things are ſo, as I here write, (not out of mine own head, but from the Statute Book of the Lord God) yet like thoſe who ſaid unto <hi>Jeremiah,</hi> Chap. 44. 15, 16, 17. <hi>As for the word thou haſt ſpoken unto us in the name of the Lord, we will not hearken unto thee, but we will cer<g ref="char:EOLhyphen"/>tainly
+<pb n="7" facs="tcp:151380:4"/> do whatſoever thing goeth out of our own mouth, to burn Incenſe unto the Queen of Heaven, and to pour out Drink Offerings unto her, as we have done we and our Fathers, our Kings and our Princes in the cities of Judah, and in the streets of Jeruſalem; for then had we plenty of victuals, and were well, and ſaw no evil. But ſince we have left off to burn Incenſe to the Queen of Heaven, and to pour out Drink Of<g ref="char:EOLhyphen"/>ferings unto her, we have been conſumed by the Sword and by the Famine.</hi> The Reaſon is alike of the Rebellion and Diſobedience of thoſe I write un<g ref="char:EOLhyphen"/>to. For as then they judged by temporal Events, becauſe they thought it went better with them at that preſent time by their Diſobedience and Re<g ref="char:EOLhyphen"/>fuſal. So the Princes and Prieſts and People of this Land are ready to ſay, (it is known to God all one as if they did ſpeak out ſo plainly, but yet do ye dare or preſume to ſay, <hi>We will not obey the Word and Commandment of God.</hi> How<g ref="char:EOLhyphen"/>ever, they will not do it in this thing) or at leaſt ſo is the thought and purpoſe of their Hearts.</p>
+            <p>As for what things thou haſt alledged unto us in the Name of the Lord, from out of his Law and Commandment, concerning the Sin thou ſayeſt we have committed, and the Oath we have vio<g ref="char:EOLhyphen"/>lated, we will not hearken unto thee, ſo as to come to Repentance and to make full Reſtituti<g ref="char:EOLhyphen"/>on, for <hi>now we are well and ſee no evil.</hi> Thou haſt heretofore ſeveral times alledged unto us, that Declaration of God, <hi>I will a ſwift witneſs <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>gainſt falſe ſwearers, and againſt them that turn aſide the ſtranger from his right,</hi> Mal. 3. 7. And ſo it may be truly reaſoned and applied as to thoſe who turn aſide a Papiſt from his Right. But,
+<pb n="8" facs="tcp:151380:5"/> How is this fulfilled? For doth it as yet appear, that God is a ſwift witneſs againſt falſe Swearers and againſt them that turn aſide the Stranger (or Papiſt) from his Right? For it is evidently ſeen, that the falſe Swearers and Oppreſſors and Spoilers and Robbers of this kind, <hi>The tabernacles of robbers proſpers,</hi> Job 12. 6. For theſe ten years together, and it may be for thirty or forty years more, <hi>are well and ſee no evil.</hi> They are altoge<g ref="char:EOLhyphen"/>ther as, yea, more proſperous, in outward Eſtate, than if they had not been falſe Swearers at all, or as if they had not turned aſide the Stranger (or Papiſt) from his Right. <hi>But beloved, Be not igno<g ref="char:EOLhyphen"/>rant of this thing, That one day is with the Lord as a thouſand years, and a thouſand years as one day. The Lord is not ſlack concerning his Promiſe,</hi> (nor yet is he ſlack to execute his threatnings) <hi>as ſome men count ſlackneſs; but is long-ſuffering to us ward, not willing that any ſhould periſh, but that all ſhould come to repentance.</hi> I pray to God, that this his gracious end (for which he waits) may be an<g ref="char:EOLhyphen"/>ſwered in ye. For the Word of the Lord is un<g ref="char:EOLhyphen"/>to ye Line upon Line, Line upon Line, Precept upon Precept, Precept upon Precept, here a lit<g ref="char:EOLhyphen"/>tle and there a little, to the intent that ye who are in Errour may return into the way of Right<g ref="char:EOLhyphen"/>eouſneſs. Be admoniſhed and exhorted ſo to do. O be not willingly ignorant; as if ſuch a thing was no Sin nor Tranſgreſſion, or as if God would not be a <hi>ſwift witneſs</hi> againſt it, becauſe he doth not preſently ſtrike the Sinner dead in his Sin: <hi>Becauſe ſentence againſt an evil work is not executed ſpeedily, therefore the hearts of the ſons of men are ful<g ref="char:EOLhyphen"/>ly ſet in them to do evil.</hi> May not any Sinner hence wrongly imagine, that God will not be a <hi>ſwift
+<pb n="9" facs="tcp:151380:5"/> witneſs</hi> againſt his Sin, becauſe he doth for ſome time ſuffer the Sinner to live and continue therein. God may ſeem <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>low, but yet he will be ſure to fulfill his Word in <hi>puniſhing the world for their evil, and the wicked for their iniquity.</hi> A thouſand years with him are but as one day. Though on this Earth he ſuffers it during all the courſe thereof, yet when Time ſhall be no longer it will be then ſeen, that God indeed will be a <hi>ſwift witneſs</hi> againſt all manner of Sin and Tranſgreſſion.</p>
+            <p>Ay, But here ye may be apt to imagine, We are not Sinners and Tranſgreſſors, for we make Laws to ſuppreſs Vice, Immorality and Profane<g ref="char:EOLhyphen"/>neſs.</p>
+            <p>Which at firſt may ſeem Goodly and Commen<g ref="char:EOLhyphen"/>dable to <hi>as many as have not known the depths of Sa<g ref="char:EOLhyphen"/>tan:</hi> But as the wi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Man ſaith, That which hath been, is now, and there is no new thing under the Sun. So in the very laſt foregoing Generation, A certain man by name <hi>Oliver Cromwell,</hi> who like un<g ref="char:EOLhyphen"/>to <hi>Ahab,</hi> did both <hi>kill and alſo take poſſeſſion,</hi> 1 King. 21. 19. And like the Husbandmen, Who did <hi>kill the heir that the inheritance might be theirs,</hi> Mark 12. 7, 9. Even ſo he did cauſe the King to be Mur<g ref="char:EOLhyphen"/>thered, and then he took Poſſeſſion of his Houſe, Eſtate, and Government. And then, As we have heard with our Ears, and our Fathers have told us, This very ſame <hi>Oliver Cromwell,</hi> did ſet up for Re<g ref="char:EOLhyphen"/>formation of Manners; as by puniſhing Adultery with Death, ſuppreſſing Drunkenneſs, Vain Cur<g ref="char:EOLhyphen"/>ſing and Swearing, (although themſelves had com<g ref="char:EOLhyphen"/>mitted adviſed deliberate Perjuries) ſtrict Obſer<g ref="char:EOLhyphen"/>vation of the Lord's Day, and ſuch like. The Reaſons which put him upon ſo doing, ſeem to be either an Act of cloſe and deep Hypocriſie;
+<pb n="10" facs="tcp:151380:6"/> (<hi>That the Hypocrite reign not least the people be en<g ref="char:EOLhyphen"/>ſnared,</hi> Job 34. 30.) Thus to ingratiate himſelf with Godly and well-meaning People, and thereby to hide and cover before them his other Tranſgreſ<g ref="char:EOLhyphen"/>ſion. (<hi>Shall not God ſearch this out? for he knoweth the ſecrets of the heart.</hi>) Or elſe, fearing the Wrath and Puniſhment of God due to himſelf for the ſame, he did vainly hope, and wrongly imagine, to make Atonement and Expiation, or Commutation, for his own great Sin, by doing a kind of ſeeming good this way. O the <hi>depths of Satan!</hi> O the ex<g ref="char:EOLhyphen"/>ceeding ſubtlety of the Old Serpent, in deceiving Sinners and Tranſgreſſours into Perdition and Con<g ref="char:EOLhyphen"/>demnation. So it is at this day, Our <hi>Princes are Rebellious and Companions of Thieves, every one loveth Gifts and followeth after Rewards,</hi> Iſaiah 1. 23. In the nature of things it is equally and all one (yea rather worſe) Theft and Robbery to take away either by force or fraud, openly or privately, a great ſum of Money as a ſmall one: and ſo it is all one Theft and Robbery to take a great Houſe and Eſtate, as it is to take a little one; and ſo it is as to a Kingdom, all one as to a Leſs Matter. The Goſpel Command is, <hi>That no man go beyond and de<g ref="char:EOLhyphen"/>fraud his brrther in any matter,</hi> 1 Theſ. 4. 6. God himſelf reproves and finds fault, <hi>When thou ſawest a thief then thou conſentedſt with him; theſe things hast thou done, and I kept ſilent, thou thoughteſt that I was altogether ſuch an one as thy ſelf,</hi> Pſal. 50. 18, 21. As if, becauſe God <hi>kept ſilence</hi> at the time, there<g ref="char:EOLhyphen"/>fore it was God's doings, and his Cauſe, and he did approve of and was well pleaſed therewith; which is the Blaſphemy of theſe days, and of the other late times of Iniquity. Now if in this caſe, <hi>Mur<g ref="char:EOLhyphen"/>derers</hi> mentioned, <hi>Iſaiah</hi> 1. 21. <hi>Rebels, Thieves,</hi> and
+<pb n="11" facs="tcp:151380:6"/> 
+               <hi>Robbers,</hi> ſhould ſet up for Reformers, all this and the like is not pleaſing in the ſight of God. Nor yet will thus doing avail the Sinners and Tranſ<g ref="char:EOLhyphen"/>greſſours to turn away the Wrath and future Pu<g ref="char:EOLhyphen"/>niſhment of God from themſelves; for the plain and expreſs Declaration of Almighty God touch<g ref="char:EOLhyphen"/>ing this matter, is, <hi>The ſoul that ſinneth it ſhall die. The righteouſneſs of the righteous ſhall be upon him, and the wickedneſs of the wicked ſhall be upon him. But when the righteous turneth away from his righteouſneſs and commiteed iniquity, and doth according to all the abominations that the wicked man doth, ſhall he live? All his righteouſneſs</hi> (which takes in his other Right<g ref="char:EOLhyphen"/>eouſneſs and ſeeming Goodneſs) <hi>ſhall not be menti<g ref="char:EOLhyphen"/>oned in his treſpaſs that he hath treſpaſſed, and in his ſin that he hath ſinned,</hi> (there it is pointed out ex<g ref="char:EOLhyphen"/>actly) <hi>in them ſhall he die,</hi> Ezek. 18. 20, 24. Nor yet is thus doing pleaſing and acceptable unto our Saviour <hi>Jeſus Christ,</hi> for he ſaith; <hi>With what mea<g ref="char:EOLhyphen"/>ſure you mete it ſhall be meaſured to ye again. And why beholdest thou the mote that is in thy brothers eye, but conſidereſt not the beam that is in thine own eye: Or how wilt thou ſay to thy brother, Let me pull out the mote out of thine eye, and behold a beam is in thine own eye. Thou hypocrite, first caſt out the beam out of thine own eye, and then ſhalt thou ſee clearly to eaſt out the mote out of thy brothers eye,</hi> Matth. 7. 2, 3, 4, 5. Ye Hypocrites, firſt, ye your ſelves, <hi>ceaſe to do evil; Learn to do well, ſeek judgment: Relieve</hi> (in the Margent it is <hi>Righten,</hi> which ſigni<g ref="char:EOLhyphen"/>fies to ſet right again) <hi>the oppreſſed,</hi> Iſaiah 1. 16, 17. Leave off Injuſtice, Wrong, Robbery, bearing Falſe Witneſs, Covetouſneſs, and know <hi>to do right, ſaith the Lord, who ſtore up violence and robbery in your palaces,</hi> Amos 3. 10. One <hi>whereof is conſumed by
+<pb n="12" facs="tcp:151380:7"/> Fire,</hi> Job 15. 34. And <hi>turn from your ſin, and do that which is lawful and right. Let the wicked reſtore the pledge, and give again that he hath robbed,</hi> Ezek. 33. 14, 15. And <hi>where ye have taken any thing from any man by falſe accuſation, there reſtore to him fourfold.</hi> That is, Make full Reſtitution, if ye expect that Salvation ſhould come to your Houſes and Souls. After ye have done all this, ye will be more meet to diſcourage Vice, Immorality and Profaneneſs: <hi>God is</hi> alike <hi>diſhonoured by thoſe breaches of his law,</hi> Rom. 2. 23. as by theſe: And ye would be alike zealous againſt them as againſt the others, but that herein ye are the Sinners and Offenders your ſelves. <hi>Be not deceived, God is not mocked:</hi> He will not be ſo trifled withall nor deluded, ſo as to excuſe your Sin and Tranſgreſſion, (which in an <hi>hard impenitent heart ye continue in, and thus treaſure up to your ſelves wrath againſt the day of wrath.</hi>) by your pretend<g ref="char:EOLhyphen"/>ing to ſtop or prevent Sins of another kind in other People. Except ye Repent and turn from your own Iniquities, (and have <hi>all Gods judgments before ye, and keep your ſelves from your iniquities,</hi> Pſal. 18. 22. 23.) ye will find that ye deceive your ſelves in<g ref="char:EOLhyphen"/>to everlaſting Deſtruction and Condemnation.</p>
+            <p>Your Prince or Chief one, is for ſeeking to an Arm of Fleſh, and doth not think himſelf ſafe without a Standing Army, (for <hi>ſinners and hypocrites are afraid and fearful,</hi> Iſaiah 33. 14.) as truly they have reaſon for it, all their hope being in this Life: But if he had a thouſand thouſand men for his Guard, they cannot preſerve or defend him from that <hi>wrath of God which is revealed from heaven againſt all unrighteouſneſs of men; for all that do unrighteouſly are an abomination unto the Lord,</hi> Deu. 25. 16. and which will be executed upon the guilty, (<hi>He will by no means
+<pb n="13" facs="tcp:151380:7"/> clear the guilty,</hi> Exod. 34. 7.) after that this life ſhall be ended; no more then they can now preſerve his Breath from going forth when the appointed time is come. All his Guards and Soldiers are but dy<g ref="char:EOLhyphen"/>ing men themſelves, whoſe Breath is in their No<g ref="char:EOLhyphen"/>ſtrils; and of ſuch it is thus written, <hi>Which are gone down to hell with their weapons of war; and they have laid their ſwords under their heads, but their ini<g ref="char:EOLhyphen"/>quities ſhall be upon their bones, though they were the terrour of the mighty in the land of the living,</hi> Ezek. 32. 27. He will find more ſafety then from them, if he will do according to the Command and Coun<g ref="char:EOLhyphen"/>ſel of God; <hi>Let the wicked forſake his way; and the unrighteous man his thoughts.</hi> Break off thy Sins by Righteouſneſs, and thine Iniquities, by making full Reſtitution where thou <hi>haſt wronged any man,</hi> (here think upon thy deceaſed Wifes Father) <hi>by falſe ac<g ref="char:EOLhyphen"/>cuſation;</hi> if thou wouldſt have Salvation (which ſignifies ſafety from all the evils of the other world) come to thy Houſe and Soul.</p>
+            <p>By what is here written of <hi>Truth and Meekneſs and Righteouſneſs,</hi> they are tried once more, whe<g ref="char:EOLhyphen"/>ther the People who have been hitherto Diſobedi<g ref="char:EOLhyphen"/>ent and Rebellious, will obey God's Word, and <hi>tremble at his Commandment, and do according to his Law,</hi> Ezra 10. 3. My daily Prayer to God is, that they may do ſo; (for <hi>my hearts deſire and prayer to God for Iſrael, is, that they might be ſaved;</hi>) I do hereby again exhort them unto it; though I fear, leaſt through the ſubtlety of Satan, (who here makes uſe of that great and prevailing Temptation of Intereſt, Profit and Gain, all which will not be a ſufficient compenſation for the loſs of their Souls) and he will hinder, tempt or deceive, that they ſhould not obey unto Salvation; and then this
+<pb n="14" facs="tcp:151380:8"/> will be the return which I ſhall make at laſt as to them; <hi>But unto Iſrael,</hi> (who were the outward wor<g ref="char:EOLhyphen"/>ſhippers) <hi>he ſaith, All the day long I have ſtretched forth my hands unto a diſobedient and gainſaying Peo<g ref="char:EOLhyphen"/>ple.</hi>
+            </p>
+            <p>
+               <hi>But unto them that are contentious, and do not obey the truth, but obey unrighteouſneſs, indignation and wrath, tribulation and anguiſh upon every ſoul of man that doth evil.</hi> If ye will not obey, <hi>in the latter days ye ſhall conſider it perfectly;</hi> and when the days of your Fleſh are ended, and the time of your Pro<g ref="char:EOLhyphen"/>bation and Trial is over; and that alſo is expired and gone, when God <hi>gave ye a ſpace to repent of your Iniquity, and ye repented not:</hi> Then ye will have Indignation and Wrath, Tribulation and Anguiſh upon your Souls, that ye would not obey thoſe his Laws and Commandments, which from out of the Book of the Lord, I a Scribe inſtructed therein, and <hi>bringing out of that treaſury things new and old,</hi> have here ſet before ye.</p>
+         </div>
+      </body>
+      <back>
+         <div type="notice">
+            <pb n="15" facs="tcp:151380:8"/>
+            <argument>
+               <p>Becauſe ſome of ye heretofore, inſtead of obeying the Word, have perſecuted my out<g ref="char:EOLhyphen"/>ward Perſon, therefore it may ſeem expe<g ref="char:EOLhyphen"/>dient and neceſſary to annex this Notice and Advertiſement.</p>
+            </argument>
+            <head>To all Rulers, Magiſtrates, and Officers of Juſtice; and to all others whom this following may any wiſe Concern:</head>
+            <p>WHereas I do only reprove Tranſgreſſion, and exhort People to come again into the way of God's Commandments, I do ſet his Laws be<g ref="char:EOLhyphen"/>fore Mankind, and I do publiſh his Eternal Truth. I do nothing more, beyond, or beſides this, which again I do not out of mine own head, but only from the Statute Book of the Lord God. If ye think that I deſerve to be impriſoned for ſo doing, and ye will be inſtrumental to confine me, God will judge, that ye and the other People do deſerve Damnation, for not obeying thoſe his Laws and Commandments, which from out of the ſame Book of Scriptures I have ſet before ye and them. And when your Breath is out of your Noſtrils, and your Souls are departed from your Bodies, ye will re<g ref="char:EOLhyphen"/>ceive yet greater Condemnation, and be beaten with more Stripes, for your thus doing unto me his Creature, who was ſent and employed by him in the Miniſtration of his Word and Truth.</p>
+            <closer>
+               <signed>So Warneth and Witneſſeth, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> 
+               </signed>
+            </closer>
+         </div>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:151380:9"/>
+            <pb facs="tcp:151380:9"/>
+            <head>Practical Books Written and Publiſhed by <hi>Ri<g ref="char:EOLhyphen"/>chard Stafford.</hi>
+            </head>
+            <list>
+               <item>OF Happineſs: Wherein it is fully and particularly manifeſted, That the greateſt Happineſs of this Life conſiſteth in the Fear of God and keeping his Com<g ref="char:EOLhyphen"/>mandments, in oppoſition to the Pleaſures of Sin, or the pretended conveniency of Diſobedience.</item>
+               <item>Rules and Directions for the prevention of and Reco<g ref="char:EOLhyphen"/>very out of Sickneſs.</item>
+               <item>A Diſcourſe againſt Partial Obedience: Or that dan<g ref="char:EOLhyphen"/>gerous Deceit ſo univerſal amongſt them, who call them<g ref="char:EOLhyphen"/>ſelves Chriſtians of keeping ſome of the Commandments of God and neglecting others.</item>
+               <item>Some Thoughts of the Life to Come. With a brief account of the State of Religion, as it is now in the World.</item>
+               <item>The great Benefits of Chriſt to all that believe on and obey him: Being a Treatiſe on <hi>Hebrews</hi> 2. 15. Wherein it is ſhewed and made known how People may be freed and delivered from that ſlaviſh fear of Death, whereby they are ſubject to Bondage throughout their Life time: and alſo how they may be ſaved and preſerved from the Evil and Danger of Death when it ſhall approach nigh and come actually upon them.</item>
+               <item>An earneſt Call to all the Inhabitants of the Earth, to Turn immediately to the Lord their God.</item>
+               <item>An Exhortation unto all Diſſenters (however they are diſtinguiſhed or named) to return into the Communion of the Church of <hi>England:</hi> ſo far, as all things are done <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>herein, according to the Pattern ſhewed to us in the Goſpel.</item>
+               <item>Six ſeveral Sermons, Preached on <hi>Iſaiah</hi> 38. 1. Wherein <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat great Duty of ſetting our Body and Soul in order, <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or we ſhall die, is at large opened and explained.</item>
+               <item>The Doctrine of the Croſs, or the Duty of Chriſtian <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uffering, in a Sermon, on <hi>Mat.</hi> 13. 20, 21.</item>
+               <item>A Sermon on 1 <hi>Chron.</hi> 29. 18.</item>
+               <item>The Nature of Gods Kingdom and Dominion over <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>en, in a Diſcourſe on <hi>Deut.</hi> 8. 2.</item>
+               <item>Divine Arithmetick Illuſtrated in the Right and Exact Numbring of our Days, or a Diſcourſe of the near and <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ontinued approaches of Death unto every one whatſoever.</item>
+               <item>The Extenſiveneſs and Comprehenſiveneſs of the <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Judgment of God.</item>
+               <pb facs="tcp:151380:10"/>
+               <item>A Diſcourſe of the Miſery of Hell and Happineſs of Heaven, Grounded from <hi>Mat.</hi> 25. 46.</item>
+               <item>A Diſcourſe of Gods Hearing Prayer, Grounded from <hi>John</hi> 9. 31.</item>
+               <item>The obſervation of the three Great Feſtivals aſſerted in the Chriſtian Church, and alſo the Right manner of the obſervance of them made known in a Sermon on <hi>Col.</hi> 3. 1. Preached on <hi>Eaſter-Day.</hi>
+               </item>
+               <item>A Sermon Preached unto the Inhabitants of the Town of <hi>Thornbury</hi> in <hi>Gloceſter-ſhire, March</hi> 20. 1697. on <hi>Pſal.</hi> 143. 8.</item>
+               <item>Two ſeveral Sermons, on <hi>Phil.</hi> 4. 11, 12.</item>
+               <item>The neceſſity of keeping ſtill unto the Ordinances of Re<g ref="char:EOLhyphen"/>ligion, Prayer, Hearing the Word, Baptiſm and the Lords Supper, in a Sermon on <hi>Acts</hi> 6. 4.</item>
+               <item>A Sermon concerning the Devices of Satan, on 2 <hi>Cor.</hi> 2. 11.</item>
+               <item>
+                  <hi>The exceeding Great Comfort and Benefit of having walked before God in Truth, and with a Perfect heart, and of having done that which is Good in his ſight;</hi> Set forth in ſeveral Diſ<g ref="char:EOLhyphen"/>courſes, on <hi>Iſaiah</hi> 38. 2, 3.</item>
+            </list>
+         </div>
+         <div type="notice">
+            <head>Advertiſement.</head>
+            <p>Beſides thoſe afore-mentioned, Theſe are to give notice, That I have ſeveral other Practical Sermons or Diſcourſes of mine own Compoſing lying by, me in Manuſcript: Which if they who have the Plenty or Competency of this Worlds Goods, would (<hi>Ac<g ref="char:EOLhyphen"/>cording to their ſeveral Ability,</hi> Acts 11. 29.) <hi>Thus Conſecrate ſome part of their gain and ſubstance unto the Lord,</hi> So as to be <hi>ready to Diſtri<g ref="char:EOLhyphen"/>bute, willing to Communicate</hi> towards the outward Labour and Charge of the Printing and Publiſhing of them, it would be for the Glory of God (<hi>in making known his Truth.</hi>) And for the Edifi<g ref="char:EOLhyphen"/>cation and Benefit of his Church and People; and conſequently it would be a Good work in ſuch Perſons who ſhall be helpful and any ways aſſiſtant herein, for which they would be rewarded by God in the Life that is to come.</p>
+            <p>
+               <hi>And I ſay unto you, Make to your ſelves Friends of the</hi> Mammon <hi>of unrighteouſneſs; that when ye fail they may receive you into Everlaſt<g ref="char:EOLhyphen"/>ing Habitations. Charge them that are Rich in this World that they do Good, that they be Rich in Good Works, ready to Diſtribute, willing to Communicate, laying up in Store for themſelves a good Foundation a<g ref="char:EOLhyphen"/>gainſt the time to come, that they may lay hold on Eternal Life. This is a faithful ſaying, and theſe things I will that thou affirm conſtantly, that they which have believed in God, might be careful to maintain Good Works; theſe things are Good and Profitable unto Men.</hi>
+            </p>
+            <pb facs="tcp:151380:10"/>
+         </div>
+      </back>
+   </text>
+</TEI>
